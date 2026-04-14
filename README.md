@@ -36,11 +36,23 @@ The dataset contains simulated records of:
 
 ---
 
+## Analysis Projects
+
+### 1. Exploratory Data Analysis
+Initial exploration of customer behaviour, usage patterns, and key distributions.
+
+### 2. Customer Segmentation & Churn Analysis
+- Identifying distinct customer segments  
+- Exploring behaviour patterns linked to churn risk  
+- Analysing engagement and spending trends  
+
+---
+
 ## Potential Use Cases
 - Customer segmentation  
 - Churn prediction  
 - Revenue analysis  
-- Peak usage trends  
+- Peak usage and attendance trends  
 
 ---
 
