@@ -17,6 +17,15 @@ This dataset enables analysis of these areas in a realistic but privacy-safe env
 
 ---
 
+## Key Questions
+This analysis aims to explore:
+- What factors influence customer spending?
+- Which members are most at risk of churn?
+- What are the busiest times in the leisure centre?
+- How does membership type affect usage?
+
+---
+
 ## Dataset Description
 The dataset contains simulated records of:
 - Customer demographics  
